@@ -25,3 +25,5 @@ logs/
 .postgres_data/
 
 .vscode/
+
+*.json
